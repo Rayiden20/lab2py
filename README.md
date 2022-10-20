@@ -127,7 +127,8 @@ Hasil penggabungan 8 & 6 = 68
 Hasil pejumlahan 8 + 6 = 14
 
 Hasil pembagian 8 / 6 = 0
-![Screenshot 2022-10-20 195252](https://user-images.githubusercontent.com/115732267/196976011-68ddfc85-0143-4e3b-9267-1d8c5ce76e95.png)
+![latihan3](https://user-images.githubusercontent.com/115732267/196977075-19bd39ee-0cea-4e8c-b215-b65f90f718be.png)
+
 
 Jadi seperti itulah cara penggunaan python, mohon maaf jika ada kesalahan
 
